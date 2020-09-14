@@ -1,0 +1,16 @@
+parent: panda
+name: origami
+display_name: Origami Theme based on Panda
+version: 1.0.0
+author:
+  name: "Origami Team"
+  email: "contact@origami-marketplace.com"
+  url: "http://origami-marketplace.com"
+
+assets:
+  use_parent_assets: true
+
+css:
+    all:
+      - id: origami-custom-lib-style
+        path: assets/css/custom.css
