@@ -4,20 +4,16 @@
  */
 
 $(function() {
-    console.log("origami theme");
-
     /*
      * checkout delivery step
      */
     if($('#checkout-delivery-step').length) {
-        console.log("origami checkout delivery step");
 
         $('.delivery_option_radio').on('change', function() {
             carrierExtraInfosVisibility($(this).parents('.delivery_options'));
         });
 
         function carrierExtraInfosVisibility($wrapper) {
-
             $wrapper.find('.delivery_option_radio:not(:checked)').parents('.delivery-option').removeClass('selected');
             $wrapper.find('.delivery_option_radio:not(:checked)').parents('.delivery-option').find('.ori-carrier-extra-content:not(.always-display)').hide();
             
@@ -31,9 +27,9 @@ $(function() {
         });
 
         $('.delivery-option').on('click', function() {
-		let $radio = $(this).find('.delivery_option_radio');
+		    let $radio = $(this).find('.delivery_option_radio');
             $radio.prop("checked", true).change();
-	    carrierExtraInfosVisibility($(this).parents('.delivery_options'));
+	        carrierExtraInfosVisibility($(this).parents('.delivery_options'));
         });
     }
 });
