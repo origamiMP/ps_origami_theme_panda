@@ -23,9 +23,9 @@
                             {/if}
                         </div>
                         <div class="carrier-seller-title"><span>
-                                {if $warehouse.origami_warehouse->origami_seller_id && !empty($warehouse.origami_seller->getName())}
-                                    {$warehouse.origami_seller->getName()}
-                                {elseif !$warehouse.origami_warehouse->origami_seller_id && !empty($warehouse.origami_warehouse->name)}
+                                {if !empty($warehouse.origami_warehouse->origami_seller_id) && !empty($warehouse.origami_seller->name)}
+                                    {$warehouse.origami_seller->name}
+                                {elseif empty($warehouse.origami_warehouse->origami_seller_id) && !empty($warehouse.origami_warehouse->name)}
                                     {$warehouse.origami_warehouse->name}
                                 {else}
                                     {$shop.name}
