@@ -83,3 +83,20 @@ body#checkout section.checkout-step .delivery-option {
     font-size: 13px;
     margin-bottom: -5px;
 }
+
+
+/* origami my-account title */
+.origami-my-account-title {
+    display: flex;
+    margin: 20px 0;
+    line-height: 32px;
+}
+.origami-btn-title-back {
+    padding: 3px 13px !important;
+    border-radius: 6px;
+    margin-right: 10px !important;
+}
+.origami-my-account-title .text {
+    flex: 100%;
+    border-bottom: 1px dotted #dddddd;
+}

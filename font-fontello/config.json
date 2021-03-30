@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "Fontello",
   "css_prefix_text": "fto-",
   "css_use_suffix": false,
   "hinting": true,
@@ -477,24 +477,6 @@
       "src": "entypo"
     },
     {
-      "uid": "ecf8edb95c3f45eb433b4cce7ba9f740",
-      "css": "users",
-      "code": 59450,
-      "src": "entypo"
-    },
-    {
-      "uid": "6341ebcbe1ed1f6777c1b9527ead368e",
-      "css": "video",
-      "code": 59436,
-      "src": "entypo"
-    },
-    {
-      "uid": "3def559c3c39b8500882e02892b7daa8",
-      "css": "picture-1",
-      "code": 59437,
-      "src": "entypo"
-    },
-    {
       "uid": "85017ab6ca074831a8de771b40e9640c",
       "css": "camera-2",
       "code": 59428,
@@ -564,12 +546,6 @@
       "uid": "390d6d13398cbf8c8c3c5493f7d34088",
       "css": "export",
       "code": 59157,
-      "src": "entypo"
-    },
-    {
-      "uid": "457c8e2b305e7af74c1be4f07a01ca92",
-      "css": "vcard",
-      "code": 59170,
       "src": "entypo"
     },
     {
@@ -663,12 +639,6 @@
       "src": "typicons"
     },
     {
-      "uid": "n1ld0w7zazkxq7bsqtksyez86sdufqgd",
-      "css": "globe-alt",
-      "code": 59480,
-      "src": "typicons"
-    },
-    {
       "uid": "610efad3150b6959e1b3fc863f39c60c",
       "css": "gift",
       "code": 59515,
@@ -678,12 +648,6 @@
       "uid": "9f498adcae624d612adc3123d65abf04",
       "css": "credit-card-1",
       "code": 59521,
-      "src": "typicons"
-    },
-    {
-      "uid": "40b8b7bf3ab4931765b7d32fb625b4cd",
-      "css": "anchor-outline",
-      "code": 59516,
       "src": "typicons"
     },
     {
@@ -1059,12 +1023,6 @@
       "src": "fontawesome"
     },
     {
-      "uid": "56f2eac13d2b397ff4a54dc38f783b95",
-      "css": "snowflake-o",
-      "code": 62172,
-      "src": "fontawesome"
-    },
-    {
       "uid": "f85affb51c357be83d187344c8c6e35c",
       "css": "diamond-1",
       "code": 59597,
@@ -1125,18 +1083,6 @@
       "src": "fontawesome"
     },
     {
-      "uid": "aa58e30c7196b1378a6ca78c025cc3b5",
-      "css": "behance",
-      "code": 61876,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "b501bc7737850366e98043c585163eec",
-      "css": "behance-squared",
-      "code": 61877,
-      "src": "fontawesome"
-    },
-    {
       "uid": "ef0e69c3275e8c845aca69a79900092d",
       "css": "digg",
       "code": 61862,
@@ -1179,30 +1125,6 @@
       "src": "fontawesome"
     },
     {
-      "uid": "0f6a2573a7b6df911ed199bb63717e27",
-      "css": "github-circled",
-      "code": 61595,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "0ece9a12de796b8411f868d582bee678",
-      "css": "github-squared",
-      "code": 62208,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "e7cb72a17f3b21e3576f35c3f0a7639b",
-      "css": "git",
-      "code": 61907,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "c75b7d61b0bce6aeb54292e3952a1568",
-      "css": "git-squared",
-      "code": 61906,
-      "src": "fontawesome"
-    },
-    {
       "uid": "b8d0c7d76e87b94882329a88e8e43d3d",
       "css": "gplus",
       "code": 61653,
@@ -1227,18 +1149,6 @@
       "src": "fontawesome"
     },
     {
-      "uid": "8cd1b9899389237def726c08587a649f",
-      "css": "joomla",
-      "code": 61866,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "47a35af762c8e06f3d152750134c8750",
-      "css": "linux",
-      "code": 61820,
-      "src": "fontawesome"
-    },
-    {
       "uid": "1145676a91138011729fa2909997af66",
       "css": "linkedin-squared",
       "code": 62220,
@@ -1248,12 +1158,6 @@
       "uid": "1d2b426ab6db81a58547ba13d8701ad8",
       "css": "paypal",
       "code": 61933,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "92a4d74aa4e0549812301299020915a5",
-      "css": "pied-piper-squared",
-      "code": 61863,
       "src": "fontawesome"
     },
     {
@@ -1395,12 +1299,6 @@
       "src": "fontawesome"
     },
     {
-      "uid": "9fecfcfe680a469caedeeb40641a479f",
-      "css": "handshake-o",
-      "code": 62133,
-      "src": "fontawesome"
-    },
-    {
       "uid": "f7dff44258aa565cbe35565be350b58d",
       "css": "xing-squared",
       "code": 61801,
@@ -1410,18 +1308,6 @@
       "uid": "11ebb30e17efcd988a228ade5d3e8c74",
       "css": "xing",
       "code": 61800,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "32e335f0cd5c4fcc692af6fa742f6b7e",
-      "css": "lastfm-squared",
-      "code": 61955,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "5dcf6620378353c5b0089b12d961fedf",
-      "css": "lastfm",
-      "code": 61954,
       "src": "fontawesome"
     },
     {
@@ -1596,18 +1482,6 @@
       "uid": "d9b33592f56a02af69a36aa64ed452fc",
       "css": "tencent-weibo",
       "code": 61909,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "657ff9fe5df74f1993937aa4b19cf909",
-      "css": "qq",
-      "code": 61910,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "5e0a374728ffa8d0ae1f331a8f648231",
-      "css": "github",
-      "code": 61715,
       "src": "fontawesome"
     },
     {
@@ -2043,18 +1917,6 @@
       "src": "fontawesome"
     },
     {
-      "uid": "818981e2ad316f18ae61cfa805d41309",
-      "css": "user-circle",
-      "code": 62141,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "3fce1eca43f917c8f23e532749abae5d",
-      "css": "user-circle-o",
-      "code": 62142,
-      "src": "fontawesome"
-    },
-    {
       "uid": "8704cd847a47b64265b8bb110c8b4d62",
       "css": "down-open",
       "code": 59492,
@@ -2325,12 +2187,6 @@
       "src": "linecons"
     },
     {
-      "uid": "b86df50a2d898bfcd371fa86c0b8b2fb",
-      "css": "user-o",
-      "code": 62144,
-      "src": "fontawesome"
-    },
-    {
       "uid": "3d8cc269fdad8a4cda55a20542a84e5c",
       "css": "credit-card-2",
       "code": 59623,
@@ -2385,18 +2241,6 @@
       "src": "fontawesome"
     },
     {
-      "uid": "79d27b578931fd441a6dc885c9dd88a6",
-      "css": "address-card",
-      "code": 62139,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "2e6301ac94d0d51566727b9199259451",
-      "css": "id-card-o",
-      "code": 62147,
-      "src": "fontawesome"
-    },
-    {
       "uid": "8ed4884bf9b840729eef8f0bbd2b1dbb",
       "css": "user-outline",
       "code": 59628,
@@ -2406,12 +2250,6 @@
       "uid": "z2kx6nr3u9112p0e1pfhxdhva9v7kd4k",
       "css": "tag-3",
       "code": 59629,
-      "src": "typicons"
-    },
-    {
-      "uid": "83e7b366e9b39bc4006b821f7c5efa4d",
-      "css": "folder",
-      "code": 59630,
       "src": "typicons"
     },
     {
@@ -2463,18 +2301,6 @@
       "src": "fontawesome"
     },
     {
-      "uid": "37b41cdae5ec9dab40e0c5bfff8a0ec8",
-      "css": "id-card",
-      "code": 62146,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "933f454f9d3342a055217fd695475d44",
-      "css": "vcard-1",
-      "code": 59636,
-      "src": "typicons"
-    },
-    {
       "uid": "d218294e6f9f7191f6b0b3d1ff6239ff",
       "css": "eye-off-1",
       "code": 59637,
@@ -2503,6 +2329,1530 @@
       "css": "reddit",
       "code": 59640,
       "src": "elusive"
+    },
+    {
+      "uid": "4c98b3dda1e0ee80b8dec24616f9bdc8",
+      "css": "smile-1",
+      "code": 59641,
+      "src": "linearicons"
+    },
+    {
+      "uid": "2cc97ae9bea37bcaf9fb726816c2b2a7",
+      "css": "cart-1",
+      "code": 59642,
+      "src": "linearicons"
+    },
+    {
+      "uid": "e887b98da2ce1b4aac881edf5e3201b1",
+      "css": "chevron-right",
+      "code": 59643,
+      "src": "linearicons"
+    },
+    {
+      "uid": "22b319b290309744a15b5b9b907c1b29",
+      "css": "chevron-left",
+      "code": 59644,
+      "src": "linearicons"
+    },
+    {
+      "uid": "c9df5ccb67db686a1cac9e7ebeb71855",
+      "css": "plus-circle",
+      "code": 59645,
+      "src": "linearicons"
+    },
+    {
+      "uid": "64bcd6ad71f61f13c4622c7506d583a2",
+      "css": "checkmark-cicle",
+      "code": 59646,
+      "src": "linearicons"
+    },
+    {
+      "uid": "c301fecc892bc4a149a50a640764b488",
+      "css": "cross-circle",
+      "code": 59647,
+      "src": "linearicons"
+    },
+    {
+      "uid": "5c2bfb9cd1b66a0ed06c6ff1c3eea154",
+      "css": "circle-minus",
+      "code": 59648,
+      "src": "linearicons"
+    },
+    {
+      "uid": "23663ae93da8356f8abf2d392a1c29e3",
+      "css": "sad",
+      "code": 59649,
+      "src": "linearicons"
+    },
+    {
+      "uid": "4798eec6e0cad8c0d9abeb43d709738f",
+      "css": "rocket-2",
+      "code": 59650,
+      "src": "linearicons"
+    },
+    {
+      "uid": "aa0a9c12cbfa7c52d96dc92404f90eb8",
+      "css": "gift-2",
+      "code": 59651,
+      "src": "linearicons"
+    },
+    {
+      "uid": "b083f07f47053abe90ffddbbc94bae42",
+      "css": "cog-2",
+      "code": 59653,
+      "src": "linearicons"
+    },
+    {
+      "uid": "930c31d4c72bd792b5dceb6de607c3e0",
+      "css": "tag-5",
+      "code": 59654,
+      "src": "linecons"
+    },
+    {
+      "uid": "ee22dc89481ea63f27654f59dcace804",
+      "css": "clock-1",
+      "code": 59655,
+      "src": "linecons"
+    },
+    {
+      "uid": "fa4575eec5da0ff6a70c5729a5aec7b1",
+      "css": "diamond-2",
+      "code": 59656,
+      "src": "linearicons"
+    },
+    {
+      "uid": "03437119d7375a2503386f6eee0b96e2",
+      "css": "clock-2",
+      "code": 59657,
+      "src": "linearicons"
+    },
+    {
+      "uid": "227fa2e80aa203dd459b8a2cd09948ba",
+      "css": "hourglass-1",
+      "code": 59658,
+      "src": "linearicons"
+    },
+    {
+      "uid": "zc0c8s0nyweeeo9i8a3rucu7alwxt56r",
+      "css": "wrench",
+      "code": 59659,
+      "src": "modernpics"
+    },
+    {
+      "uid": "9avusbdkm7q4vcmevr0x88zxewys65wr",
+      "css": "clock-alt",
+      "code": 59660,
+      "src": "modernpics"
+    },
+    {
+      "uid": "0ohst63cgq1mf1syayvfl8mphms8dbes",
+      "css": "clock-3",
+      "code": 59661,
+      "src": "modernpics"
+    },
+    {
+      "uid": "ddecf5ad7935e3fb1b70dac6ed00d06a",
+      "css": "language",
+      "code": 59662,
+      "src": "entypo"
+    },
+    {
+      "uid": "25fc99a30fecc4021fdcae5fff5ba9ac",
+      "css": "eye-3",
+      "code": 59663,
+      "src": "entypo"
+    },
+    {
+      "uid": "d18071bbf8f0a8cec8d1f556c91c6af0",
+      "css": "heart-empty-3",
+      "code": 59664,
+      "src": "entypo"
+    },
+    {
+      "uid": "9b8c0c9b47f05c3e48b8af2d0d9286ad",
+      "css": "socks",
+      "code": 63126,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "3f1a9c799a96ecb6a3024b3659ed491a",
+      "css": "tooth",
+      "code": 62921,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "9ce617aa240b002e8c16af41f1bf3364",
+      "css": "hands_helping",
+      "code": 62660,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "bf1052cc5202053319ba2189b422bdfb",
+      "css": "parachute_box",
+      "code": 62669,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "ce1e7c71a42a1dd4d65be27a8b008b3f",
+      "css": "box_open",
+      "code": 62622,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "52c1dd5451dc23b315587aed69949f5f",
+      "css": "shopping_bag",
+      "code": 59670,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "2a70e4e428a6f7aea2515e82ae50f20b",
+      "css": "headphones_alt",
+      "code": 62863,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "bbf50a560f95a4cce5209d47e71cbc30",
+      "css": "pagelines",
+      "code": 61836,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5bb103cd29de77e0e06a52638527b575",
+      "css": "wrench-1",
+      "code": 59671,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "98687378abd1faf8f6af97c254eb6cd6",
+      "css": "cog-alt",
+      "code": 59672,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "21b42d3c3e6be44c3cc3d73042faa216",
+      "css": "sliders",
+      "code": 61918,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1dcd2b2148b7f086a4eb47f6a746bdee",
+      "css": "unlink",
+      "code": 61735,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4fd86f30550e6f834e59bcba6878f1d9",
+      "css": "texture",
+      "code": 59674,
+      "src": "material"
+    },
+    {
+      "uid": "7ba3777d9d98c31982829d0093c7bc23",
+      "css": "straighten",
+      "code": 59675,
+      "src": "material"
+    },
+    {
+      "uid": "5ffbce69b475282f9069a122eac173ed",
+      "css": "shopping_basket-1",
+      "code": 59676,
+      "src": "material"
+    },
+    {
+      "uid": "d2fb362ab2a935c30da2afd66a9dc1b7",
+      "css": "shopping_cart",
+      "code": 59677,
+      "src": "material"
+    },
+    {
+      "uid": "0184b7c9437b54865f09c4e486ad5cff",
+      "css": "redeem",
+      "code": 59678,
+      "src": "material"
+    },
+    {
+      "uid": "b5545ed95f9c54fb9b1b7c6237e79422",
+      "css": "looks_one",
+      "code": 59679,
+      "src": "material"
+    },
+    {
+      "uid": "bd2a3f02de3a43e2986600c02b52d597",
+      "css": "looks_two",
+      "code": 59680,
+      "src": "material"
+    },
+    {
+      "uid": "c4c5343b14f2e070d778d76f1bf6ae5d",
+      "css": "looks_4",
+      "code": 59683,
+      "src": "material"
+    },
+    {
+      "uid": "af8452cdd5a0c81c6291845ad4ee12d5",
+      "css": "looks_3",
+      "code": 59684,
+      "src": "material"
+    },
+    {
+      "uid": "a261f1ae1802bc0633dd3ce9e20a8590",
+      "css": "local_mall",
+      "code": 59685,
+      "src": "material"
+    },
+    {
+      "uid": "e3733d2994c711c1d2390c2938e0a434",
+      "css": "fingerprint",
+      "code": 59686,
+      "src": "material"
+    },
+    {
+      "uid": "254190823b8afa58da4b5fc89a755fc4",
+      "css": "av_timer",
+      "code": 59690,
+      "src": "material"
+    },
+    {
+      "uid": "4bccf8a2b7053037960c41d1833dec0e",
+      "css": "time_to_leave",
+      "code": 59693,
+      "src": "material"
+    },
+    {
+      "uid": "fd45bb961d08f9f2092f0df3fba29fe9",
+      "css": "qrcode-2",
+      "code": 59695,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "cda0cdcfd38f5f1d9255e722dad42012",
+      "css": "spinner",
+      "code": 61712,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "33afa0f624ce5dae73f62a3f21a67f83",
+      "css": "vector",
+      "code": 61509,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "dad4e7f8dc2e57c92cffc0231202d9a0",
+      "css": "instagram",
+      "code": 62238,
+      "src": "brandico"
+    },
+    {
+      "uid": "cc20f2a7fa05a475130c406740bbbd26",
+      "css": "instagram-filled",
+      "code": 62239,
+      "src": "brandico"
+    },
+    {
+      "uid": "5e5a88921aa39b292bdd56c3b9c923d3",
+      "css": "gift-3",
+      "code": 59697,
+      "src": "elusive"
+    },
+    {
+      "uid": "5634c2ac65fc66c86b79ef1b60ace220",
+      "css": "keyboard",
+      "code": 59698,
+      "src": "linearicons"
+    },
+    {
+      "uid": "50cce7d700718251909fd034daf72600",
+      "css": "calendar-full",
+      "code": 59699,
+      "src": "linearicons"
+    },
+    {
+      "uid": "2817f1c9cc0f97d800a2b55d3ff29982",
+      "css": "license",
+      "code": 59700,
+      "src": "linearicons"
+    },
+    {
+      "uid": "e9f1a452968111eab72aacfdce5a3d9f",
+      "css": "gift-4",
+      "code": 62222,
+      "src": "octicons"
+    },
+    {
+      "uid": "e9f1a457968111eab72aacfdce5a3d9f",
+      "css": "tag-6",
+      "code": 62227,
+      "src": "octicons"
+    },
+    {
+      "uid": "e9f1a498968111eab72aacfdce5a3d9f",
+      "css": "kebab-horizontal",
+      "code": 62292,
+      "src": "octicons"
+    },
+    {
+      "uid": "ab7d8f416f03aa8e59908ea4f1c79f70",
+      "css": "palm_tree",
+      "code": 59990,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e9f1a495968111eab72aacfdce5a3d9f",
+      "css": "plug",
+      "code": 62289,
+      "src": "octicons"
+    },
+    {
+      "uid": "b08f8c33777cd6b512d9576fc6e7f405",
+      "css": "food",
+      "code": 59702,
+      "src": "linecons"
+    },
+    {
+      "uid": "fb3ee9c192c946342e0cdd12f06d7774",
+      "css": "lightbulb-1",
+      "code": 59703,
+      "src": "linecons"
+    },
+    {
+      "uid": "c053ebe321823b081483d332b06eee54",
+      "css": "gauge",
+      "code": 59704,
+      "src": "elusive"
+    },
+    {
+      "uid": "97a6bef785d3f4b39a96301d0fab3b03",
+      "css": "cake",
+      "code": 59707,
+      "src": "material"
+    },
+    {
+      "uid": "749713cc4727871c0b62cfdfdaeb4b12",
+      "css": "looks_5",
+      "code": 59682,
+      "src": "material"
+    },
+    {
+      "uid": "c0b4e22514c57501076005018bca0b54",
+      "css": "looks_6",
+      "code": 59681,
+      "src": "material"
+    },
+    {
+      "uid": "43d998e224a6395b157221a2510c5810",
+      "css": "all_inclusive",
+      "code": 59708,
+      "src": "material"
+    },
+    {
+      "uid": "d438fd494159b699a88b76448d004f76",
+      "css": "filter_vintage",
+      "code": 59687,
+      "src": "material"
+    },
+    {
+      "uid": "e62c4e6ee75042870c9e70500fd30a44",
+      "css": "local_shipping",
+      "code": 59689,
+      "src": "material"
+    },
+    {
+      "uid": "2de52a661fda0ed6ae4d3232c1b2c62f",
+      "css": "timer",
+      "code": 59688,
+      "src": "material"
+    },
+    {
+      "uid": "09cc76a490b56a796db90fe1b2cb60ef",
+      "css": "watch",
+      "code": 59673,
+      "src": "material"
+    },
+    {
+      "uid": "aece56f5aaf6c8aa83e7713969cfedcb",
+      "css": "verified_user",
+      "code": 59691,
+      "src": "material"
+    },
+    {
+      "uid": "a8f9dd0ca79c813f531064939ec5bd69",
+      "css": "amazon_pay",
+      "code": 62508,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "b305b3d8f7ebc05f1d22c21a0181217d",
+      "css": "cc_amazon_pay",
+      "code": 62509,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "68ab74f144baf3258942ca1c496bc985",
+      "css": "apple_pay",
+      "code": 62485,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "71d49429c953efd748f1e6d12a4aff4a",
+      "css": "cc_apple_pay",
+      "code": 62486,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "eb221c0732224c31fad07c963e1db888",
+      "css": "stripe_s",
+      "code": 62506,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "6c0fb670f8a547cbf3835ce9ac41ca15",
+      "css": "instagram_square",
+      "code": 59692,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "12ab5925393cd3c4648e9e4ac692b8b2",
+      "css": "ideal",
+      "code": 59694,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "6cec9adceafc3f4752a0e47091085709",
+      "css": "fedex",
+      "code": 63383,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "cb388fc17a0fa0be3e601c40ee56471e",
+      "css": "dhl",
+      "code": 63376,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "5051cbe9a58fde09581620ec23198b5e",
+      "css": "ups",
+      "code": 63456,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "672c4d6e9b734af52c182e0d03ed7cb0",
+      "css": "usps",
+      "code": 63457,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "88b4d628588b9468accb0035bcb7a4ac",
+      "css": "alipay",
+      "code": 63042,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "7ee9dca6b4648b744db8f92579019ac6",
+      "css": "mailchimp",
+      "code": 62878,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "2bafdb6b4878d912d31877a28d0ab477",
+      "css": "bitcoin-1",
+      "code": 62329,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "71ab9a12d7e93d15844dafe19bd77a2a",
+      "css": "shopping_basket",
+      "code": 59669,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "7ea4150d9eb2d2ade9491d5ad905718c",
+      "css": "credit-card-alt",
+      "code": 62083,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "657ff9fe5df74f1993937aa4b19cf909",
+      "css": "qq",
+      "code": 61910,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4283eb9b8a2b741092e7e3e6c8943dae",
+      "css": "facebook_messenger",
+      "code": 62367,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "40b0b5a41e4f2db16d642378b33d0144",
+      "css": "store",
+      "code": 59665,
+      "src": "linearicons"
+    },
+    {
+      "uid": "4bbdccd2dd2c02c55a8ec9a20dc50ee8",
+      "css": "phone-handset",
+      "code": 59666,
+      "src": "linearicons"
+    },
+    {
+      "uid": "6ad074bda46c1f4c7cfe9c02199cedf0",
+      "css": "map-marker",
+      "code": 59667,
+      "src": "linearicons"
+    },
+    {
+      "uid": "31b7b54b10ef8455281a018da31215c7",
+      "css": "phone-1",
+      "code": 59668,
+      "src": "linearicons"
+    },
+    {
+      "uid": "1ca1dc408f934aa145ab2858e886f4bd",
+      "css": "smartphone",
+      "code": 59705,
+      "src": "linearicons"
+    },
+    {
+      "uid": "7033a790a6eba30beda282944e6bae87",
+      "css": "heart-5",
+      "code": 59652,
+      "src": "linearicons"
+    },
+    {
+      "uid": "c905c4330fc25cc20afa1aedb82d4e03",
+      "css": "sun",
+      "code": 59706,
+      "src": "linearicons"
+    },
+    {
+      "uid": "076bd4cd22150e8237c5817a9a7e03a7",
+      "css": "magnifier",
+      "code": 59709,
+      "src": "linearicons"
+    },
+    {
+      "uid": "97cebbcc7e4a7b66640d78e50b16f940",
+      "css": "cross",
+      "code": 59710,
+      "src": "linearicons"
+    },
+    {
+      "uid": "0a974b066b80e4ced8e848f34ccdfb71",
+      "css": "chevron-up",
+      "code": 59711,
+      "src": "linearicons"
+    },
+    {
+      "uid": "abbf64910aaf217429058b66f19fc381",
+      "css": "chevron-down",
+      "code": 59712,
+      "src": "linearicons"
+    },
+    {
+      "uid": "b75af8c5ac556bc6953f343d3ff5986b",
+      "css": "user-5",
+      "code": 59713,
+      "src": "linearicons"
+    },
+    {
+      "uid": "16cf13818d0911e34e2ee0b1f607087a",
+      "css": "users-3",
+      "code": 59714,
+      "src": "linearicons"
+    },
+    {
+      "uid": "2b6e439ba053332e05a6d9b9f9944f44",
+      "css": "earth",
+      "code": 59715,
+      "src": "linearicons"
+    },
+    {
+      "uid": "dccfff10e4c7e20793dcf5f76011491f",
+      "css": "circular_saw",
+      "code": 59750,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "97a582edc38e93cb47a1975695a7e911",
+      "css": "teamspeak",
+      "code": 62713,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "72109d2fb3088d0e66ea6a9204297651",
+      "css": "spin1",
+      "code": 59436,
+      "src": "fontelico"
+    },
+    {
+      "uid": "cdd836ec082da15e51545f2ea1a37015",
+      "css": "account_balance_wallet",
+      "code": 61448,
+      "src": "material"
+    },
+    {
+      "uid": "597ddffd7c1a9ce8c22f27eab6d113a2",
+      "css": "card_giftcard",
+      "code": 59437,
+      "src": "material"
+    },
+    {
+      "uid": "ce8ae48d7c8c9555066413167c75983f",
+      "css": "fiber_new",
+      "code": 59450,
+      "src": "material"
+    },
+    {
+      "uid": "9c4e2f27e9743f41a9a2591cdceec4d7",
+      "css": "fiber_pin",
+      "code": 59480,
+      "src": "material"
+    },
+    {
+      "uid": "9bc2902722abb366a213a052ade360bc",
+      "css": "spin6",
+      "code": 59516,
+      "src": "fontelico"
+    },
+    {
+      "uid": "f0c301ac841dafc38d8eb1b933fc73e5",
+      "css": "spin2",
+      "code": 59630,
+      "src": "fontelico"
+    },
+    {
+      "uid": "5164d4d14c71c2340bd9b3096fbf96ce",
+      "css": "vpn_key",
+      "code": 59636,
+      "src": "material"
+    },
+    {
+      "uid": "22a893e7725504a4a3b8905fb20cac53",
+      "css": "account_circle",
+      "code": 59696,
+      "src": "material"
+    },
+    {
+      "uid": "ee7bdf6ae18f8215c9dd29d68f4cb335",
+      "css": "weight_hanging",
+      "code": 62925,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "4e8f83be5552db4c8b3b76b3f618dcec",
+      "css": "elementor",
+      "code": 62512,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "eb7e79d5f22797e7cc07c205eef2b31a",
+      "css": "stripe",
+      "code": 62505,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "0817b47d6e5f1d85f2428640a021f0c4",
+      "css": "star-1",
+      "code": 59701,
+      "src": "linecons"
+    },
+    {
+      "uid": "f2a37db235ca1951d60d7ebc9733eb54",
+      "css": "videocam",
+      "code": 59716,
+      "src": "linecons"
+    },
+    {
+      "uid": "8573943a49ed6dd8f7819070445baa46",
+      "css": "photo",
+      "code": 59717,
+      "src": "linecons"
+    },
+    {
+      "uid": "359f380b2113cb40259269aed843e33d",
+      "css": "attach",
+      "code": 59718,
+      "src": "linecons"
+    },
+    {
+      "uid": "47e9e56d2b5abe839bcf1e014d643dea",
+      "css": "lock-1",
+      "code": 59719,
+      "src": "linecons"
+    },
+    {
+      "uid": "a58c05a8a3ba59ababd4860a30892560",
+      "css": "eye-4",
+      "code": 59720,
+      "src": "linecons"
+    },
+    {
+      "uid": "2aeb4987b469d22fcb8b471b6d2cdfff",
+      "css": "pencil-1",
+      "code": 59721,
+      "src": "linecons"
+    },
+    {
+      "uid": "c2958cfd1eed4434ab6e4bd6ab337af9",
+      "css": "cup",
+      "code": 59722,
+      "src": "linecons"
+    },
+    {
+      "uid": "2cc73cc335f054682c04fe63439c4dcb",
+      "css": "trash-1",
+      "code": 59723,
+      "src": "linecons"
+    },
+    {
+      "uid": "f978da58836f23373882916f05fb70b4",
+      "css": "doc",
+      "code": 59724,
+      "src": "linecons"
+    },
+    {
+      "uid": "29f4bce4a60650057c5248e30baa15a6",
+      "css": "note",
+      "code": 59725,
+      "src": "linecons"
+    },
+    {
+      "uid": "143d93c9abdee0f4a7a2a810acc62b91",
+      "css": "sound",
+      "code": 59726,
+      "src": "linecons"
+    },
+    {
+      "uid": "cc5e3696cf6c3ad8c32daaea05355a99",
+      "css": "tv",
+      "code": 59727,
+      "src": "linecons"
+    },
+    {
+      "uid": "7697f1734d53461137f05faab3f79cf0",
+      "css": "desktop",
+      "code": 59728,
+      "src": "linecons"
+    },
+    {
+      "uid": "52cde78d270e411ccf22c9ec02910d69",
+      "css": "cd",
+      "code": 59729,
+      "src": "linecons"
+    },
+    {
+      "uid": "efaf7e97e8b1aa7c2b52cc29432c96ca",
+      "css": "inbox",
+      "code": 59730,
+      "src": "linecons"
+    },
+    {
+      "uid": "4b7f817f780705a5d267ad59e855da91",
+      "css": "graduation-cap-1",
+      "code": 59731,
+      "src": "linecons"
+    },
+    {
+      "uid": "cdcc1a6693235d1205370c1f47d5e7ad",
+      "css": "megaphone",
+      "code": 59732,
+      "src": "linecons"
+    },
+    {
+      "uid": "02ad0683eaa9826f396fa7ccf1f1fb25",
+      "css": "database",
+      "code": 59733,
+      "src": "linecons"
+    },
+    {
+      "uid": "75347b319511175da51af3955919dbac",
+      "css": "key-1",
+      "code": 59734,
+      "src": "linecons"
+    },
+    {
+      "uid": "d58dc0a0927a7dea2992f615f2fbf400",
+      "css": "wallet",
+      "code": 59735,
+      "src": "linecons"
+    },
+    {
+      "uid": "7c638496e4c7e626bc48bb5d8e6adc1d",
+      "css": "home-2",
+      "code": 59736,
+      "src": "linearicons"
+    },
+    {
+      "uid": "dbe415e93c853b22611b0d01f340c18b",
+      "css": "apartment",
+      "code": 59737,
+      "src": "linearicons"
+    },
+    {
+      "uid": "ceb24c7bd24552eb1ad8127aa6097f08",
+      "css": "pencil-2",
+      "code": 59738,
+      "src": "linearicons"
+    },
+    {
+      "uid": "7a35c967c1932f5c1bb08de4cd3e5510",
+      "css": "magic-wand",
+      "code": 59739,
+      "src": "linearicons"
+    },
+    {
+      "uid": "16e56dbb08279980854c7b06be485023",
+      "css": "drop",
+      "code": 59740,
+      "src": "linearicons"
+    },
+    {
+      "uid": "ce1a6833b6497ebef49deeea18fa5afc",
+      "css": "lighter",
+      "code": 59741,
+      "src": "linearicons"
+    },
+    {
+      "uid": "870637388a6b45eb9c51647cec2c5a00",
+      "css": "poop",
+      "code": 59742,
+      "src": "linearicons"
+    },
+    {
+      "uid": "bb950cbe6d40a3542aef3b1bd9c14af1",
+      "css": "moon-1",
+      "code": 59743,
+      "src": "linearicons"
+    },
+    {
+      "uid": "6472836961a5e9093185997d8995e93e",
+      "css": "cloud-1",
+      "code": 59744,
+      "src": "linearicons"
+    },
+    {
+      "uid": "383ff49a2dcabc15c469ba1e0e9191b0",
+      "css": "database-1",
+      "code": 59749,
+      "src": "linearicons"
+    },
+    {
+      "uid": "d7df8d878570b378b7d928049f29cb50",
+      "css": "lock-2",
+      "code": 59751,
+      "src": "linearicons"
+    },
+    {
+      "uid": "5765936043953e1f53668fca1bc51f7f",
+      "css": "trash-2",
+      "code": 59752,
+      "src": "linearicons"
+    },
+    {
+      "uid": "2be20165204736a395691553a4c8ca7b",
+      "css": "dice",
+      "code": 59753,
+      "src": "linearicons"
+    },
+    {
+      "uid": "8a1b18c91d179ca8ab00e6b479f6eb4b",
+      "css": "star-3",
+      "code": 59754,
+      "src": "linearicons"
+    },
+    {
+      "uid": "dd56d564673c6ab3e0b34b3da1c377c2",
+      "css": "star-half",
+      "code": 59755,
+      "src": "linearicons"
+    },
+    {
+      "uid": "d3b5ca19943a9f54ef819e206923b8b5",
+      "css": "star-empty-1",
+      "code": 59756,
+      "src": "linearicons"
+    },
+    {
+      "uid": "675ebf9da8c80897d20af07f2557b520",
+      "css": "flag-2",
+      "code": 59757,
+      "src": "linearicons"
+    },
+    {
+      "uid": "31a0e13eec8bd0ea1fe5784ce5731aaa",
+      "css": "envelope",
+      "code": 59758,
+      "src": "linearicons"
+    },
+    {
+      "uid": "0c1cf9dff95f12ee3ce1cd4260c20239",
+      "css": "paperclip",
+      "code": 59759,
+      "src": "linearicons"
+    },
+    {
+      "uid": "c2ddf03240cd0a28220e1401f8e6657f",
+      "css": "inbox-1",
+      "code": 59760,
+      "src": "linearicons"
+    },
+    {
+      "uid": "1730839d0c4f11de3e419e812e433156",
+      "css": "eye-5",
+      "code": 59761,
+      "src": "linearicons"
+    },
+    {
+      "uid": "8ec3a9ad2489acb91f2b081da687980f",
+      "css": "printer",
+      "code": 59762,
+      "src": "linearicons"
+    },
+    {
+      "uid": "9cd11daa6d617c47f9fcc902821f4cde",
+      "css": "file-empty",
+      "code": 59763,
+      "src": "linearicons"
+    },
+    {
+      "uid": "d89eaeb9064e2e1eb3a767f77695edb6",
+      "css": "file-add",
+      "code": 59764,
+      "src": "linearicons"
+    },
+    {
+      "uid": "a6aaf7d9073191405269fe7eb891a292",
+      "css": "enter",
+      "code": 59765,
+      "src": "linearicons"
+    },
+    {
+      "uid": "293bc9ec53a66586963ead5c45b791d0",
+      "css": "exit",
+      "code": 59766,
+      "src": "linearicons"
+    },
+    {
+      "uid": "c0f9d2c29bd624cd93d16f0aa12aacfa",
+      "css": "graduation-hat",
+      "code": 59767,
+      "src": "linearicons"
+    },
+    {
+      "uid": "1ea7a0033b17caae89c1d5d7eb4bc060",
+      "css": "music-note",
+      "code": 59768,
+      "src": "linearicons"
+    },
+    {
+      "uid": "4dd970a79ff089e664cd87049685f189",
+      "css": "film-play",
+      "code": 59769,
+      "src": "linearicons"
+    },
+    {
+      "uid": "488fff9517560e573798f70e723e23f0",
+      "css": "camera-video",
+      "code": 59770,
+      "src": "linearicons"
+    },
+    {
+      "uid": "606f7511c5dcdb112e893c91fbc3b5d2",
+      "css": "camera-4",
+      "code": 59771,
+      "src": "linearicons"
+    },
+    {
+      "uid": "68357988e7fc898214ebf1caac78149f",
+      "css": "picture",
+      "code": 59772,
+      "src": "linearicons"
+    },
+    {
+      "uid": "72b1078087c8ed5b474a046d46cab220",
+      "css": "book",
+      "code": 59773,
+      "src": "linearicons"
+    },
+    {
+      "uid": "bc6e7503448583d57d515b47e9879168",
+      "css": "bookmark",
+      "code": 59774,
+      "src": "linearicons"
+    },
+    {
+      "uid": "6357706f9e465cf2126a2954fd4a177a",
+      "css": "shirt",
+      "code": 59775,
+      "src": "linearicons"
+    },
+    {
+      "uid": "994af5de6ef3fe7d5546fc2cf726b6f1",
+      "css": "tag-7",
+      "code": 59776,
+      "src": "linearicons"
+    },
+    {
+      "uid": "e81c2437609806510ff9616e9fd8fbf3",
+      "css": "pushpin",
+      "code": 59777,
+      "src": "linearicons"
+    },
+    {
+      "uid": "825fbef3f7457a7f5bfb3a3c9680fade",
+      "css": "map",
+      "code": 59778,
+      "src": "linearicons"
+    },
+    {
+      "uid": "7b141e965921dcc9c31613d81de38775",
+      "css": "location-3",
+      "code": 59779,
+      "src": "linearicons"
+    },
+    {
+      "uid": "8134f64eeb623825fbc4b463f614f8f5",
+      "css": "spell-check",
+      "code": 59780,
+      "src": "linearicons"
+    },
+    {
+      "uid": "9b2647e786be647c268928e9394d0213",
+      "css": "screen",
+      "code": 59781,
+      "src": "linearicons"
+    },
+    {
+      "uid": "dc70be92c10c1ac96a8dd8c091eefe74",
+      "css": "tablet",
+      "code": 59782,
+      "src": "linearicons"
+    },
+    {
+      "uid": "d4291c27325473fe51ba24e8a59421fb",
+      "css": "laptop",
+      "code": 59783,
+      "src": "linearicons"
+    },
+    {
+      "uid": "b542817db856ac3bc4ead35bd5cf4110",
+      "css": "laptop-phone",
+      "code": 59784,
+      "src": "linearicons"
+    },
+    {
+      "uid": "d7ea3194560a53389ea66eb7712cef40",
+      "css": "power-swtich",
+      "code": 59785,
+      "src": "linearicons"
+    },
+    {
+      "uid": "28ccf4102fc7df9d88772d87231393b8",
+      "css": "lnr-bubble",
+      "code": 59786,
+      "src": "linearicons"
+    },
+    {
+      "uid": "2b00c57bf903c619d494f0d43e7d970e",
+      "css": "heart-pulse",
+      "code": 59787,
+      "src": "linearicons"
+    },
+    {
+      "uid": "5087a3c98e9ef3b162bff3114b1e9841",
+      "css": "construction",
+      "code": 59788,
+      "src": "linearicons"
+    },
+    {
+      "uid": "10ce3004aa77b08ef616256a506b540a",
+      "css": "pie-chart",
+      "code": 59789,
+      "src": "linearicons"
+    },
+    {
+      "uid": "296392e01d0f9a84f642c06d209a199d",
+      "css": "chart-bars",
+      "code": 59790,
+      "src": "linearicons"
+    },
+    {
+      "uid": "8c4dd8256cee57fa3cbf12e4102322c7",
+      "css": "linearicons",
+      "code": 59791,
+      "src": "linearicons"
+    },
+    {
+      "uid": "a7ea3ab6446ba4417e06b95048ca3f84",
+      "css": "dinner",
+      "code": 59792,
+      "src": "linearicons"
+    },
+    {
+      "uid": "5f0084f037fe9102ba51c0dddb87eb78",
+      "css": "coffee-cup",
+      "code": 59793,
+      "src": "linearicons"
+    },
+    {
+      "uid": "43d3901574aaffe2b9d60ecd6cbb02ec",
+      "css": "leaf-1",
+      "code": 59794,
+      "src": "linearicons"
+    },
+    {
+      "uid": "1c053f2670a7d52e200068161f917f84",
+      "css": "paw",
+      "code": 59795,
+      "src": "linearicons"
+    },
+    {
+      "uid": "fecd351cdf73640155cbe626a28943b9",
+      "css": "briefcase-1",
+      "code": 59796,
+      "src": "linearicons"
+    },
+    {
+      "uid": "5a100b8e4b7f3722cfa440175c989ba4",
+      "css": "bus",
+      "code": 59797,
+      "src": "linearicons"
+    },
+    {
+      "uid": "a7c4b05afe9e25013337c145a2b435db",
+      "css": "car",
+      "code": 59798,
+      "src": "linearicons"
+    },
+    {
+      "uid": "89484536f808d9c76852fb1dc9fcce0f",
+      "css": "train",
+      "code": 59799,
+      "src": "linearicons"
+    },
+    {
+      "uid": "e7066ecafb62ab8c74b932663f981ecf",
+      "css": "bicycle",
+      "code": 59800,
+      "src": "linearicons"
+    },
+    {
+      "uid": "7aa555f8cabe20464f18b38745e68e9b",
+      "css": "wheelchair",
+      "code": 59801,
+      "src": "linearicons"
+    },
+    {
+      "uid": "5b1ed915cc09299be629ccc6c11ddd1b",
+      "css": "select",
+      "code": 59802,
+      "src": "linearicons"
+    },
+    {
+      "uid": "1534d7026a7e7f1eaa03fa5d6ebca2fb",
+      "css": "neutral",
+      "code": 59803,
+      "src": "linearicons"
+    },
+    {
+      "uid": "abccef22ff418fcae9c772e95e222634",
+      "css": "mustache",
+      "code": 59804,
+      "src": "linearicons"
+    },
+    {
+      "uid": "6eeff295def7301b852dd3b8b303f1d3",
+      "css": "alarm",
+      "code": 59805,
+      "src": "linearicons"
+    },
+    {
+      "uid": "8008a54a0d9c4908c031336de805118b",
+      "css": "bullhorn",
+      "code": 59806,
+      "src": "linearicons"
+    },
+    {
+      "uid": "8bdc8b63283de9bdd1e73eb4f500c1ce",
+      "css": "volume-high",
+      "code": 59807,
+      "src": "linearicons"
+    },
+    {
+      "uid": "57f128eb37b61fa80a7af81a9a3503eb",
+      "css": "volume-medium",
+      "code": 59808,
+      "src": "linearicons"
+    },
+    {
+      "uid": "9119d4b1401eb817a9e6f09e9620edd7",
+      "css": "volume-low",
+      "code": 59809,
+      "src": "linearicons"
+    },
+    {
+      "uid": "d158b0e0c68e73698509b7a3760404f2",
+      "css": "volume",
+      "code": 59810,
+      "src": "linearicons"
+    },
+    {
+      "uid": "d34d9563b6a3529500a5dec4a036d818",
+      "css": "mic",
+      "code": 59811,
+      "src": "linearicons"
+    },
+    {
+      "uid": "f59426bdf48123dae4d2fb8a0c45109c",
+      "css": "undo",
+      "code": 59812,
+      "src": "linearicons"
+    },
+    {
+      "uid": "2b4a2c8d8f9c5d11c4dae3385a8084f3",
+      "css": "redo",
+      "code": 59813,
+      "src": "linearicons"
+    },
+    {
+      "uid": "794e5303bfc7905b3faaabb61e4db77e",
+      "css": "sync",
+      "code": 59814,
+      "src": "linearicons"
+    },
+    {
+      "uid": "ba3310d4a6d1084e024afe9a1e858e49",
+      "css": "history-1",
+      "code": 59815,
+      "src": "linearicons"
+    },
+    {
+      "uid": "6636e321aca877b2a8ee80520a19df03",
+      "css": "download",
+      "code": 59816,
+      "src": "linearicons"
+    },
+    {
+      "uid": "20caa277463fe64e9da210d0dc31b4c8",
+      "css": "upload",
+      "code": 59817,
+      "src": "linearicons"
+    },
+    {
+      "uid": "d23ef41f5a3a26081599b6a8dea58dac",
+      "css": "enter-down",
+      "code": 59818,
+      "src": "linearicons"
+    },
+    {
+      "uid": "a9d80811c3d2a81f3d2edc258340bdca",
+      "css": "exit-up",
+      "code": 59819,
+      "src": "linearicons"
+    },
+    {
+      "uid": "4b484ac98ea305aed19844c80bb5b884",
+      "css": "bug-1",
+      "code": 59820,
+      "src": "linearicons"
+    },
+    {
+      "uid": "b16b93ea399980f71d9e7b4cf0deff58",
+      "css": "code",
+      "code": 59821,
+      "src": "linearicons"
+    },
+    {
+      "uid": "51f39197947218f250946c296b8b8b9b",
+      "css": "link-2",
+      "code": 59822,
+      "src": "linearicons"
+    },
+    {
+      "uid": "ae6e935f0f8a57b7924d97c634b41c6f",
+      "css": "unlink-1",
+      "code": 59823,
+      "src": "linearicons"
+    },
+    {
+      "uid": "55d925212caa3cd1c8e5018f8deaf205",
+      "css": "thumbs-up-3",
+      "code": 59824,
+      "src": "linearicons"
+    },
+    {
+      "uid": "f8a7b57711f77a9f54ac9632a57cc2d4",
+      "css": "thumbs-down-1",
+      "code": 59825,
+      "src": "linearicons"
+    },
+    {
+      "uid": "814cfaca1407bf45548558e1e2815bdf",
+      "css": "menu-2",
+      "code": 59826,
+      "src": "linearicons"
+    },
+    {
+      "uid": "cdf7270e5dcec27c452fb33f334f8284",
+      "css": "list",
+      "code": 59827,
+      "src": "linearicons"
+    },
+    {
+      "uid": "8c532412fa1f2e568c495ce22d84d8e2",
+      "css": "arrow-up",
+      "code": 59828,
+      "src": "linearicons"
+    },
+    {
+      "uid": "1a5ec8d3a5d39016d61b4d122d4e3674",
+      "css": "arrow-down",
+      "code": 59829,
+      "src": "linearicons"
+    },
+    {
+      "uid": "deae611810850ff02ea1a877a0f09891",
+      "css": "arrow-left",
+      "code": 59830,
+      "src": "linearicons"
+    },
+    {
+      "uid": "e55d79482de45e2a6a01b899221c510f",
+      "css": "arrow-right",
+      "code": 59831,
+      "src": "linearicons"
+    },
+    {
+      "uid": "b64b0257ec2545b0dbc19d5d04b1a199",
+      "css": "move-1",
+      "code": 59832,
+      "src": "linearicons"
+    },
+    {
+      "uid": "872d83d24ea3666d5896d60c5867db68",
+      "css": "warning",
+      "code": 59833,
+      "src": "linearicons"
+    },
+    {
+      "uid": "3aa3605e05eca766cb9080d99828c764",
+      "css": "question-circle",
+      "code": 59834,
+      "src": "linearicons"
+    },
+    {
+      "uid": "d939d3bd20cadf2f7e70a94026b4ec69",
+      "css": "menu-circle",
+      "code": 59835,
+      "src": "linearicons"
+    },
+    {
+      "uid": "de5a599a2bb4574c3d16968e89f34698",
+      "css": "arrow-up-circle",
+      "code": 59836,
+      "src": "linearicons"
+    },
+    {
+      "uid": "ae2e83ee57d994b6ea33441c5d79635c",
+      "css": "arrow-down-circle",
+      "code": 59837,
+      "src": "linearicons"
+    },
+    {
+      "uid": "1365d7e7904a649dd1b59732cf3191ff",
+      "css": "arrow-left-circle",
+      "code": 59838,
+      "src": "linearicons"
+    },
+    {
+      "uid": "c012f366f07d0681ef46efad65523193",
+      "css": "arrow-right-circle",
+      "code": 59839,
+      "src": "linearicons"
+    },
+    {
+      "uid": "551703bbc76913fea167eb7b4c25004e",
+      "css": "chevron-up-circle",
+      "code": 59840,
+      "src": "linearicons"
+    },
+    {
+      "uid": "be029f2f0e18c810b707e12e6343220c",
+      "css": "chevron-down-circle",
+      "code": 59841,
+      "src": "linearicons"
+    },
+    {
+      "uid": "db4fe940d8277930501246c4c84943ec",
+      "css": "chevron-left-circle",
+      "code": 59842,
+      "src": "linearicons"
+    },
+    {
+      "uid": "a78377e19e6042f1ccaddbac81247ac9",
+      "css": "chevron-right-circle",
+      "code": 59843,
+      "src": "linearicons"
+    },
+    {
+      "uid": "160550322ad216a4a819bfa98d4baa8a",
+      "css": "crop",
+      "code": 59844,
+      "src": "linearicons"
+    },
+    {
+      "uid": "3411df3f6702aff9fa71d553547d06e6",
+      "css": "frame-expand",
+      "code": 59845,
+      "src": "linearicons"
+    },
+    {
+      "uid": "3b1eb9fc9869f359336715bf38c029a1",
+      "css": "frame-contract",
+      "code": 59846,
+      "src": "linearicons"
+    },
+    {
+      "uid": "254e7f70a0f4ebcc5fa582ab95cce1d9",
+      "css": "layers",
+      "code": 59847,
+      "src": "linearicons"
+    },
+    {
+      "uid": "13f011afdb47b15ca620e7967eb25c77",
+      "css": "funnel",
+      "code": 59848,
+      "src": "linearicons"
+    },
+    {
+      "uid": "53e11e8aba414fd9ec796de83d327a8f",
+      "css": "hand",
+      "code": 59870,
+      "src": "linearicons"
+    },
+    {
+      "uid": "40bce6025f35d5e84973bc8f04b36e26",
+      "css": "pointer-up",
+      "code": 59871,
+      "src": "linearicons"
+    },
+    {
+      "uid": "44958dce35b739024dd60d75626eb73a",
+      "css": "pointer-right",
+      "code": 59872,
+      "src": "linearicons"
+    },
+    {
+      "uid": "ce8b8934dbe2d717c4917261f1f217be",
+      "css": "pointer-down",
+      "code": 59873,
+      "src": "linearicons"
+    },
+    {
+      "uid": "4eeef8eac3dd1c0371a178fa85637ee8",
+      "css": "pointer-left",
+      "code": 59874,
+      "src": "linearicons"
     }
   ]
 }
