@@ -1,5 +1,6 @@
 {**
  * CORE ORIGAMI THEME OVERRIDE
+ * REQUIRED
  * base theme : panda 2.6.1
  *
  * add class with attribute group id on div product-variant-item

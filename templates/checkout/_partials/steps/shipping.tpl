@@ -1,5 +1,6 @@
 {**
  * CORE ORIGAMI : Shipping multi sellers
+ * REQUIRED
  *}
 {extends file='parent:checkout/_partials/steps/shipping.tpl'}
 

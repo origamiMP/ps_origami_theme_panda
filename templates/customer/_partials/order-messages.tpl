@@ -1,5 +1,8 @@
 {**
- * CORE ORIGAMI : Origami messages list + form in order detail
+ * CORE ORIGAMI
+ * OPTIONNAL
+ *
+ * Origami messages list + form in order detail
  *}
 {block name='order_messages_table'}
     {hook h="displayOrigamiOrderMessages" order=$order}
