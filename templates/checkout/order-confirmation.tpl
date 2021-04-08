@@ -31,8 +31,8 @@
 
         <div class="row">
           <div class="col-md-12">
-            <a class="btn btn-default" href="{$link->getPageLink('my-account', true)|escape:'html'}">{l s='Go to your account' d='Shop.Theme.Checkout'}</a> &nbsp;
-            <a class="btn btn-default" href="{$link->getPageLink('history', true)|escape:'html'}">{l s='Orders history' d='Shop.Theme.Checkout'}</a>
+            <a class="btn btn-default mb-3" href="{$link->getPageLink('my-account', true)|escape:'html'}">{l s='Go to your account' d='Shop.Theme.Checkout'}</a> &nbsp;
+            <a class="btn btn-default mb-3" href="{$link->getPageLink('index', true)|escape:'html'}">{l s='Continue shopping' d='Shop.Theme.Checkout'}</a>
           </div>
         </div>
       </div>

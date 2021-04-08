@@ -13,7 +13,9 @@
             {assign var=selected_keys value=[]}
             {if is_array($product.attributes) && count($product.attributes)}
                 {foreach $product.attributes as $av}
-                    {$selected_keys[]=$av['id_attribute']}
+                    {if !array_key_exists($av['id_attribute'], $group['attributes'])}
+                        {$selected_keys[]=$av['id_attribute']}
+                    {/if}
                 {/foreach}
             {/if}
             {* start origami modification *}
@@ -27,24 +29,17 @@
                             data-product-attribute="{$id_attribute_group}"
                             name="group[{$id_attribute_group}]">
                         {foreach from=$group.attributes key=id_attribute item=group_attribute}
-                            {assign var=is_available value=1}
-                            {foreach $combinations as $bv}
-                                {if count(array_intersect($selected_keys, $bv['attributes'])) > 0 && in_array($id_attribute, $bv['attributes']) && $bv['quantity']<=0}
-                                    {$is_available=0}
-                                {/if}
-                            {/foreach}
-                            {if !$is_available}
-                                {continue}
-                            {/if}
                             <option value="{$id_attribute}" title="{$group_attribute.name}"{if $group_attribute.selected} selected="selected"{/if}>{$group_attribute.name}</option>
                         {/foreach}
                     </select>
                 {elseif $group.group_type == 'color'}
                     <ul id="group_{$id_attribute_group}" class="clearfix li_fl">
                         {foreach from=$group.attributes key=id_attribute item=group_attribute}
+                            {assign var=temp_selected_keys value=$selected_keys}
                             {assign var=is_available value=1}
+                            {$temp_selected_keys[]=$id_attribute}
                             {foreach $combinations as $bv}
-                                {if count(array_intersect($selected_keys, $bv['attributes'])) > 0 && in_array($id_attribute, $bv['attributes']) && $bv['quantity']<=0}
+                                {if count(array_diff($bv['attributes'], $temp_selected_keys)) === 0 && !$bv['quantity']}
                                     {$is_available=0}
                                 {/if}
                             {/foreach}
@@ -62,9 +57,11 @@
                 {elseif $group.group_type == 'radio'}
                     <ul id="group_{$id_attribute_group}" class="clearfix li_fl">
                         {foreach from=$group.attributes key=id_attribute item=group_attribute}
+                            {assign var=temp_selected_keys value=$selected_keys}
                             {assign var=is_available value=1}
+                            {$temp_selected_keys[]=$id_attribute}
                             {foreach $combinations as $bv}
-                                {if count(array_intersect($selected_keys, $bv['attributes'])) > 0 && in_array($id_attribute, $bv['attributes']) && $bv['quantity']<=0}
+                                {if count(array_diff($bv['attributes'], $temp_selected_keys)) === 0 && !$bv['quantity']}
                                     {$is_available=0}
                                 {/if}
                             {/foreach}
