@@ -12,14 +12,13 @@
         <div class="my-account-title origami-my-account-title">
             {block name='my_account_back'}
                 <a href="{$urls.pages.my_account}" title="{l s='Back to your account' d='Shop.Theme.Customeraccount'}" class="btn btn-secondary origami-btn-title-back">
-                  <i class="fto-home"></i>
+                  <i class="fto-left"></i>
                 </a>
             {/block}
 
             <span class="text">{$smarty.block.child}</span>
         </div>
 {/block}
-
 
 {block name='page_content_container'}
   <section id="content" class="page-content">
