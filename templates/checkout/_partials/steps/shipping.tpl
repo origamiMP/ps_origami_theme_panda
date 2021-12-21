@@ -73,7 +73,7 @@
                                                 {hook h="origamiDisplayDeliveryOptionExtraInfos" carrier=$carrier}
                                             </div>
                                         </div>
-                                        <div class="col-sm-3 text-right"><b>{$carrier.price}</b></div>
+                                        <div class="col-sm-3 text-right"><b>{if $carrier.price == 0}Gratuit{else}{$carrier.price}{/if}</b></div>
                                     </div>
 
                                     {*<!--<span class="custom-radio m-r-1">
